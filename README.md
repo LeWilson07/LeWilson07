@@ -1,4 +1,6 @@
-# Salut, moi c'est Wilson :D  
+
+
+## Salut, moi c'est Wilson :D  
 
 🎮 Passionné par tout ce qui touche au **jeu vidéo** (grand fan de Nintendo avant tout), et plus particulièrement par l’**émulation** (en toute légalité bien sûr).  
 🤖 J’aime bien coder des **bots Discord** pour des choses simples (et surtout pour m’amuser).  
