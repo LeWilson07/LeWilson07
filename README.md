@@ -3,7 +3,6 @@
 ## Salut, moi c'est Wilson :D  
 
 🎮 Passionné par tout ce qui touche au **jeu vidéo** (grand fan de Nintendo avant tout), et plus particulièrement par l’**émulation** (en toute légalité bien sûr).  
-🤖 J’aime bien coder des **bots Discord** pour des choses simples (et surtout pour m’amuser).  
 📚 En dehors du code, je suis fasciné par les **visual novels** et les **animes**.  
 📂 Mes projets GitHub : principalement des projets tutorés réalisés pendant mes études, mais aussi quelques projets persos.  
 
@@ -34,7 +33,6 @@
 
 ## Ce que j’aime  
 - Décortiquer le fonctionnement des **consoles rétro** (par exemple je trouve la décompilation intéressant)
-- Créer des **bots Discord** pour rigoler avec mes potes  
 - Partager ma passion pour les visuals novel (lisez Umineko no naku koro ni, peak fiction) 
 
 --- 
