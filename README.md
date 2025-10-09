@@ -5,18 +5,17 @@
 🎮 Passionné par tout ce qui touche au **jeu vidéo** (grand fan de Nintendo avant tout), et plus particulièrement par l’**émulation** (en toute légalité bien sûr).  
 🤖 J’aime bien coder des **bots Discord** pour des choses simples (et surtout pour m’amuser).  
 📚 En dehors du code, je suis fasciné par les **visual novels** et les **animes**.  
-📂 Mes projets GitHub : principalement des projets d’études, mais aussi quelques projets persos.  
+📂 Mes projets GitHub : principalement des projets tutorés réalisés pendant mes études, mais aussi quelques projets persos.  
 
 ---
-
 ## 🛠️ Langages & Outils 🛠️ 
 
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)  
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)  
-![MIPS32](https://img.shields.io/badge/MIPS32-6E4C13?style=for-the-badge&logoColor=white)  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)  
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+![MIPS32](https://img.shields.io/badge/MIPS32-6E4C13?style=for-the-badge&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ---
 
