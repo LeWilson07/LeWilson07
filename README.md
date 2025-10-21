@@ -25,9 +25,12 @@
 
 ---
 
-## Objectifs   
-- Créer un petit **émulateur** ou un moteur de jeu perso  
-- Participer à des projets **open-source** liés au jeu vidéo  
+## Mes projets : 
+### Projets étudiants : 
+- Simulateur réseaux en C
+- Un sudoku solver en assembleur MIPS32
+- Un jeu D&D en Java
+- Une application de gestion en C# (Winforms)
 
 ---
 
