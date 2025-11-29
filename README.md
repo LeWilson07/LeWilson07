@@ -2,9 +2,9 @@
 
 ## Salut, moi c'est Wilson :D  
 
-🎮 Passionné par tout ce qui touche au **jeu vidéo** (grand fan de Nintendo avant tout), et plus particulièrement par l’**émulation** (en toute légalité bien sûr).  
-📚 En dehors du code, je suis fasciné par les **visual novels** et les **animes**.  
-📂 Mes projets GitHub : principalement des projets tutorés réalisés pendant mes études
+Passionné par tout ce qui touche au **jeu vidéo** (grand fan de Nintendo avant tout), et plus particulièrement par l’**émulation** (en toute légalité bien sûr).  
+En dehors du code, je suis fasciné par les **visual novels** et les **animes**.  
+Mes projets GitHub : principalement des projets tutorés réalisés pendant mes études
 
 ---
 ## 🛠️ Langages & Outils 🛠️ 
@@ -40,7 +40,7 @@
 
 --- 
 
-## 📫 Me contacter  
+## Me contacter  
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/317224097777975297)
 
