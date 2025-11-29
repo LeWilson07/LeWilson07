@@ -20,8 +20,7 @@ Mes projets GitHub : principalement des projets tutorés réalisés pendant mes 
 
 ## 📊 Stats GitHub 📊 
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=LeWilson07&show_icons=true&theme=tokyonight)  
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=LeWilson07&layout=compact&theme=tokyonight)  
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=D-l-E-G-O&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
 
 ---
 
