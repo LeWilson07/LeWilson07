@@ -2,23 +2,62 @@
 
 ## Salut, moi c'est Wilson :D  
 
-Passionné par tout ce qui touche au **jeu vidéo** (grand fan de Nintendo avant tout), et plus particulièrement par l’**émulation** (en toute légalité bien sûr).  
+Passionné par tout ce qui touche au développement **d'applications** et de **jeu vidéo**.  
 En dehors du code, je suis fasciné par les **visual novels** et les **animes**.  
-Mes projets GitHub : principalement des projets tutorés réalisés pendant mes études
+Mes projets GitHub : principalement des projets tutorés réalisés pendant mes études.
 
 ---
-## 🛠️ Langages & Outils 🛠️ 
+## Langages & Outils 
 
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-![MIPS32](https://img.shields.io/badge/MIPS32-6E4C13?style=for-the-badge&logoColor=white)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+**Langages de programmation**
+
+<div>
+  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
+  <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" alt="GDScript" title="GDScript"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" title="Bash"/>
+</div>
+<br>
+
+**Web**
+
+<div>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
+  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="PHP" title="PHP"/>
+</div>
+<br>
+
+**Base de données**
+<div>
+  <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle" title="Oracle"/>
+</div>
+<br>
+
+**Outils de développements**
+
+<div>
+  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/>
+  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" title="GitLab"/>
+	<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
+	<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" alt="Vim" title="Vim"/>
+	<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" alt="UML" title="UML"/>
+
+</div>
+<br>
 
 ---
 
-## 📊 Stats GitHub 📊 
+## Stats GitHub 
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=D-l-E-G-O&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
 
@@ -31,13 +70,6 @@ Mes projets GitHub : principalement des projets tutorés réalisés pendant mes 
 - Un jeu D&D en Java
 - Une application de gestion en C# (Winforms)
 
----
-
-## Ce que j’aime  
-- Décortiquer le fonctionnement des **consoles rétro** (par exemple je trouve la décompilation intéressant)
-- Partager ma passion pour les visuals novel (lisez Umineko no naku koro ni, peak fiction) 
-
---- 
 
 ## Me contacter  
 
