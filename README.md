@@ -56,10 +56,12 @@ Mes projets GitHub : principalement des projets tutorés réalisés pendant mes 
 <br>
 
 ---
+## Domaines qui m'intéresse : 
 
-## Stats GitHub 
+* **Développement d’applications**
+* **Développement de jeux vidéo & simulations**
+* **Programmation réseau & systèmes**
 
-![Langages les plus utilisés](https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=LeWilson07&layout=compact&langs_count=6&theme=radical)
 ---
 
 ## Mes projets : 
@@ -69,6 +71,13 @@ Mes projets GitHub : principalement des projets tutorés réalisés pendant mes 
 - Un jeu D&D en Java
 - Une application de gestion en C# (Winforms)
 
+---
+
+## Stats GitHub 
+
+![Langages les plus utilisés](https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=LeWilson07&layout=compact&langs_count=6&theme=radical)
+
+---
 
 ## Me contacter  
 
