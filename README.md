@@ -65,10 +65,13 @@ Mes projets GitHub : principalement des projets tutorés réalisés pendant mes 
 ---
 
 ## Mes projets : 
-### Projets étudiants : 
+### Projets étudiants :
+-Un jeu sérieux sur l'organisation d'audits en GDscript
+-Un jeu 2048 en C
 - Simulateur réseaux en C
 - Un sudoku solver en assembleur MIPS32
 - Un jeu D&D en Java
+- -Une bataille navale en Java (Swing)
 - Une application de gestion en C# (Winforms)
 
 ---
